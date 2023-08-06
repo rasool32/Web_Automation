@@ -1,0 +1,9 @@
+You can learn more about TestngXML suite structure from below link
+http://javarticles.com/2015/02/example-of-testng-configuration-xml-testng-xml.html
+***************************************************
+You can download Apache POI from below official link
+https://poi.apache.org/
+***************************************************
+You can also get more exposure about Apache POI API with selenium from below link
+http://www.guru99.com/all-about-excel-in-selenium-poi-jxl.html
+****************************************************
